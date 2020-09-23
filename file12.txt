@@ -1,0 +1,2 @@
+Hello world with git Envt>file1.txt
+echo Hello  Fucken world with git Envt
