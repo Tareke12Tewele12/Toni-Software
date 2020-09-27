@@ -10,6 +10,7 @@ numbers1.reverse()
    count  =0
    while count < limit:
              Toni =input(" accept from keyboard to gess")
+<<<<<<< HEAD
 			 if secret code == toni
 			 print(" corectly")
 			  break
@@ -17,3 +18,9 @@ numbers1.reverse()
 
 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhlllllllllllllllllllllllllllllllllll
 hhhhhhhhhhhhh
+=======
+			 if secret code == Toni
+			 print(" corectly")
+			  break
+	print(" Sorry faild with number of  trail")
+>>>>>>> develop
