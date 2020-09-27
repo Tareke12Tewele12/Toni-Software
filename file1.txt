@@ -1,1 +1,5 @@
-Hellow world wiht git
+ git remote add  origin http ..................   .git
+ git remote -v
+ git push github or origin master
+
+git push origin master
