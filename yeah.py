@@ -14,4 +14,3 @@ numbers1.reverse()
 			 print(" corectly")
 			  break
 	print(" Sorry faild with number of  trail")
-C:\Users\ToNi HB\AppData\Roaming\Microsoft\Windows\Start Menu
